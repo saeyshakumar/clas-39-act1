@@ -1,1 +1,2 @@
-# clas-39-act1
+# C39RV_SpeedRacer_StudentActivity
+Student Activity
